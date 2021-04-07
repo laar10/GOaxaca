@@ -1,2 +1,2 @@
 # GOaxaca
-simple CRUD using GOLang
+Simple CRUD using GOLang
